@@ -1,5 +1,8 @@
 module BibliaReinaValera1960
 
-# Write your package code here.
+using JSON
+
+export	createbible
+include("functions.jl")
 
 end

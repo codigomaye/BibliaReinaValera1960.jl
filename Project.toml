@@ -3,6 +3,9 @@ uuid = "5a0a62ae-9aeb-49a9-968b-6d854af99b7c"
 authors = ["David Maye"]
 version = "1.0.0-DEV"
 
+[deps]
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+
 [compat]
 julia = "1"
 
